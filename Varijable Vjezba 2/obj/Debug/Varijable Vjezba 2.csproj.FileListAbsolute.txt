@@ -1,0 +1,6 @@
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\bin\Debug\Varijable Vjezba 2.exe.config
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\bin\Debug\Varijable Vjezba 2.exe
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\bin\Debug\Varijable Vjezba 2.pdb
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\obj\Debug\Varijable Vjezba 2.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\obj\Debug\Varijable Vjezba 2.exe
+C:\Users\Učenik 4\source\repos\Varijable Vjezba 2\Varijable Vjezba 2\obj\Debug\Varijable Vjezba 2.pdb
